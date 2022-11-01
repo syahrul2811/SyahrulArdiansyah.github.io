@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {	
+	color:red;
+	padding top:8px;
+}
+h1{
+	color:#00FF0;
+}
+p{
+	color:rgb(0,0,255)
+}
+</style>
+</head>
+<body>
+<h1> this header will be green.</h1>
+<h1> lorem ipsum </h1>
+<p>this paragraph will bw blue.</p>
+this body text will be red.
+</body>
+</html>
